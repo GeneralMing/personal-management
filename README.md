@@ -1,0 +1,2 @@
+## Personal Management
+This repository contains a bunch of principles, procedures, observations, etc that I learn and process over the course of a lifetime. I am trying to write atleast one activity each day from which I learnt something. This is somewhat of a motivation experiment. Its basically a repository of notes from all domains in which a person frequently operates. Contributions are welcome, however I will not add you as a contributor in case of things that I can test out myself.
