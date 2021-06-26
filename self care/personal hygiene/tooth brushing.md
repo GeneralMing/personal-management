@@ -1,4 +1,4 @@
-#### A set of rules on oral hygiene
+## A set of rules on oral hygiene
 #
 * #### __A good tooth brush is underrated__
 	* Buy a toothbrush that is rough and is not flat on the bristles.
